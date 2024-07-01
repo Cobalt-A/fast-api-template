@@ -1,0 +1,7 @@
+/**/poetry.lock
+/**/__pycache__
+.postgres_data
+.idea
+.pytest_cache
+.vscode
+.project
